@@ -667,6 +667,7 @@ transition: .5s ease;
    
     .about-content h2,h3,p{
         text-align: center;
+     padding:5px;
     }
     .social-media{
         text-align: center;
