@@ -655,7 +655,7 @@ transition: .5s ease;
 @media(max-width:450px){
     html{
         width:100%;
-        font-size: 60%;
+        font-size: 80%;
         align-items: center;
     }
     .section{
